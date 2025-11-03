@@ -1,0 +1,22 @@
+# Personal notes and diary files
+*생각*.md
+*diary*.md
+*journal*.md
+*private*.md
+*personal*.md
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
