@@ -4,6 +4,11 @@
 *journal*.md
 *private*.md
 *personal*.md
+*.MD
+251103.md
+251103.MD
+[0-9][0-9][0-9][0-9][0-9][0-9].md
+[0-9][0-9][0-9][0-9][0-9][0-9].MD
 
 # Temporary files
 *.tmp
